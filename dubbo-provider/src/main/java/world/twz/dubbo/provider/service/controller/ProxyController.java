@@ -1,11 +1,9 @@
 package world.twz.dubbo.provider.service.controller;
 
-import com.alibaba.fastjson.JSONObject;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import world.twz.dubbo.entity.Invocation;
 import world.twz.dubbo.provider.service.registry.ServiceRegistry;

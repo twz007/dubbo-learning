@@ -1,10 +1,5 @@
 package world.twz.dubbo.protocol;
 
-import cn.hutool.core.bean.BeanUtil;
-import cn.hutool.http.ContentType;
-import cn.hutool.http.HttpRequest;
-import cn.hutool.http.HttpUtil;
-import cn.hutool.http.Method;
 import world.twz.dubbo.entity.Invocation;
 import world.twz.dubbo.entity.Url;
 
